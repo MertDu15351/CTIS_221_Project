@@ -1,8 +1,8 @@
 CTIS-221 Project Team and Topic  
 (2024-25 Spring Semester) 
 Team Members: 
-1) Mert Duman 22301846 m.duman@ug.bilkent.edu.tr 
-2) Mustafa Oktay Giniş 22301637 oktay.ginis@ug.bilkent.edu.tr
+1) Mert Duman m.duman@ug.bilkent.edu.tr 
+2) Mustafa Oktay Giniş oktay.ginis@ug.bilkent.edu.tr
  
 Topic: An Erasmus tracker for Erasmus candidates. The system will 
 contain criteria of several universities and candidates will be able to 
