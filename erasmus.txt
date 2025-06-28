@@ -1,0 +1,7 @@
+Finland*HAAGA-HELIA University of Applied Sciences*2*true*Finnish*1
+Finland*Helsinki Metropolia University of Applied Sciences, Finland. B.S., Information Technology*2*false*English*1
+Austria*University of Applied Sciences UPPER AUSTRIA*3*false*English*2
+Croatia*University College Algebra, Croatia*2*true*English*3
+Portugal*University Institute Of Lisbon*1*false*Portuguese*1
+Croatia*Rochester Institute of Technology Croatia*2*true*English*3
+Ireland*South East Technological University (SETU)*2*true*English*1
