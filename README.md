@@ -3,7 +3,7 @@ CTIS-221 Project Team and Topic
 Team Members: 
 1) Mert Duman mertdumanifl@gmail.com 
 2) Mustafa Oktay Giniş moktayginis@gmail.com
- 
+ alo
 Topic: An Erasmus tracker for Erasmus candidates. The system will 
 contain criteria of several universities and candidates will be able to 
 enter their information’s to the system. After that, the program will help 
